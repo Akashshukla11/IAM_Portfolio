@@ -176,7 +176,7 @@ export const experiences = [
     location: "Kolkata, India",
     duration: "May 2025 – Present",
     type: "Full-time",
-    description: "Worked on KPMG global project delivering IAM solutions using Microsoft Entra ID (Azure AD) and On-Prem Active Directory.",
+    description: "Worked with Global Top Audit firm for delivering IAM solutions using Microsoft Entra ID (Azure AD) and On-Prem Active Directory.",
     responsibilities: [
       "Managed user and group lifecycle (provisioning, modification, decommissioning).",
       "Administered DNS records for AD-integrated services.",
